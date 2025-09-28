@@ -6,7 +6,7 @@
 <p>
   <a href="https://twitter.com/devcgz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/devcgz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/the_charangoud"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/devcgz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@devcgz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" alt="YouTube"/></a>
 </p>
 
