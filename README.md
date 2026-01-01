@@ -1,13 +1,13 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=devcgz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=charanlogs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-<h1>Hi 👋, I'm Sai Charan Goud | DevCGz</h1>
+<h1>Hi 👋, I'm Sai Charan Goud</h1>
 <h3>💻 Full Stack Developer | MERN & Next.js | Based in Hyderabad, India 🇮🇳</h3>
 <p>
-  <a href="https://twitter.com/devcgz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/devcgz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/devcgz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@devcgz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" alt="YouTube"/></a>
+  <a href="https://twitter.com/charanlogs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/charanlogs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/charanlogs"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@charanlogs"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" alt="YouTube"/></a>
 </p>
 
 ---
